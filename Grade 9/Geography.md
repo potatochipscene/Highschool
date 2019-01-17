@@ -487,6 +487,12 @@
 >> |:----|:----------|
 >> 
 
+> ## Push and Pull Factors
+>> **```Push Factor```**: A reason that encourages people to move away from their current country
+>>> Examples: Undesired climate, threat of war, economic problems, poor environmental conditions 
+>> **```Pull Factor```**: A reason that makes a particular country seem attractive to potential immigrants
+>>> Examples: Political stability, economic opportunities, freedom, residential friends and relatives
+
 > ## Type of Immigrants
 
 >> ### Permanent
@@ -511,9 +517,15 @@
 
 
 
-> ## Wher are Immigrants coming from?
+> ## Where are Immigrants coming from?
 
 > ## Migration of FNMI
+>> Nationally, ```4.3%``` of the population is aboriginal
+>> Aboriginals are not spread evenly across Canada
+>>> For example, ```16.2%``` of the FNMI population reside in ```Saskatchewan``` and ```Manitoba``` combined, while ```53.2%``` reside in the ```three territories```
+>> Are moving to ```urban areas``` more
+>>> Because of lack of jobs, unclean water, overcrowded housing, etc.
+>>> The land given to them through treaties and reserves is often poor quality, resulting in poor living conditions
 
 
 
